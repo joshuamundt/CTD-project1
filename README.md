@@ -1,11 +1,10 @@
 # CTD-project1
-https://github.com/joshuamundt/CTD-project1.git
 
 Joshua Mundt
 CTD project 1
 1/27/2020
 
-Link: https://github.com/joshuamundt/CTD-Assignment.git
+Link: https://github.com/joshuamundt/CTD-project1.git
 
 For this project, I obtained the ocean data from OOI website, and chose Cabled Axial Seamount Axial Base Deep and Shallow Profiler Mooring for both winter and summer on the same day. I selected Jan 6-7, 2020 for winter and July 6-7, 2019 for summer. 
 There were nine dives in a span of 24 hours in the winter and summer when the device traveled shallow depth as shown in figure 1 and 2, and the average speed of sound profile was approximately 1,484 m/s. However, when the device traveled deeper, as illustrated in figure 3 and 4 , the number of dives went down to 2 dives in both winter and summer, and the average speed of sound profile was about 1,484 m/s, which was similar to its counterpart.

@@ -31,7 +31,11 @@ The ssp profiles in the summer has slightly higher thermocline compared to winte
 
 The plots show that the offshore summer has considerably higher thermocline compared to the thermocline in the winter, and it is closer to the surface.
 
+It is quite difficult to compare the average ssp profiles of all profilers recorded at the same day in winter and summer because the OOI website wasn’t able to provide all data on the same day. Therefore, for some data, I had to select a different date or month in the winter and summer. Regardless of  the exact date in the summer or winter, the difference in location didn’t play a major role in changing the average ssp profile. As mentioned above, the season affects the ssp profile noticeably. The images below indicate that in summer, the thermocline is higher and sited near the surface, and the speed of sound is faster.
+
 
 ![](images/Offshore_Winter_Deep.png)
 ![](images/Offshore_Summer_Deep.png)
+
+
 

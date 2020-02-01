@@ -12,3 +12,7 @@ There were six or nine dives in a span of 24 hours in the winter and summer when
 ![](images/Axial_Summer_Shallow.png)
 ![](images/Axial_Summer_Deep.png)
 
+
+
+![](images/Offshore_Summer_Shallow.png)
+![](images/Offshore_winter_Deep.png)

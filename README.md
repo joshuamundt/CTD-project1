@@ -15,4 +15,4 @@ The average speed of sound was 1,484.6 m/s for all profilers at the same day in 
 
 
 ![]
-![](images/Axial Summer Deep.png)
+![](images/Axial_Summer_Deep.png)

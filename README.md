@@ -24,6 +24,13 @@ According to given date, a huge discrepancy in speed of sound is not shown betwe
 
 For example, the image above shows that the speed of sound is faster early in the morning and afternoon. The reason could be that, during the day time, the speed of the sound profile in all profilers increased because the temperature is higher at day time, which enables the sound wave to travel faster.
 
+The ssp profiles in the summer has slightly higher thermocline compared to winter profiles, and the thermocline in the summer is closer to the surface as it the images indicate below.
+
+![](images/Offshore_winter_Shallow2.png)
+![](images/Offshoe_Summer_Shallow.png)
+
+The offshore summer has considerably higher thermocline compared to the thermocline in the winter.
+
 
 	
 

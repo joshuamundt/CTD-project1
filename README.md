@@ -20,7 +20,7 @@ The data explicitly shows that the number of dives per day was considerably lowe
 It is apparent that the speed of sound in the ocean is faster near the surface for both summer and winter.
 According to given date, a huge discrepancy in speed of sound is not shown between day and night. After comparing the ssp profile in day and night of all profilers, most of the data has similar speed of sound for both day and night time, but a location, such as offshore has higher speed of sound during the day, especially in the morning.
 
-![](images/Offshore_Winter_Deep.png)
+![](images/Offshore_Winter_Deep2.png)
 
 For example, the image above shows that the speed of sound is faster early in the morning and afternoon. The reason could be that, during the day time, the speed of the sound profile in all profilers increased because the temperature is higher at day time, which enables the sound wave to travel faster.
 

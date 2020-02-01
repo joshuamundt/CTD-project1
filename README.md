@@ -14,4 +14,5 @@ The data explicitly shows that the number of dives per day was considerably high
 The average speed of sound was 1,484.6 m/s for all profilers at the same day in winter and summer with different depths at Cabled Axial Seamount Axial Base. During day time, the speed of the sound profile in all profilers increased because the temperature is higher at day time, which enables the sound wave to travel faster.
 
 
+![]
 ![](images/Axial Summer Deep.png)

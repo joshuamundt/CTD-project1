@@ -17,4 +17,4 @@ The data explicitly shows that the number of dives per day was considerably lowe
 ![](images/Offshore_Summer_Shallow.png)
 ![](images/Offshore_Winter_Deep.png)
 
-It is apparent that the speed of sound in the ocean is faster near the surfacc for both summer and winter.
+It is apparent that the speed of sound in the ocean is faster near the surface for both summer and winter.

@@ -29,7 +29,7 @@ The ssp profiles in the summer has slightly higher thermocline compared to winte
 ![](images/Offshore_Winter_Shallow2.png)
 ![](images/Offshore_Summer_Shallow.png)
 
-The plots show that the offshore summer has considerably higher thermocline compared to the thermocline in the winter.
+The plots show that the offshore summer has considerably higher thermocline compared to the thermocline in the winter, and it is closer to the surface.
 
 
 	

@@ -26,8 +26,8 @@ For example, the image above shows that the speed of sound is faster early in th
 
 The ssp profiles in the summer has slightly higher thermocline compared to winter profiles, and the thermocline in the summer is closer to the surface as it the images indicate below.
 
-![](images/Offshore_winter_Shallow2.png)
-![](images/Offshoe_Summer_Shallow.png)
+![](images/Offshore_Winter_Shallow2.png)
+![](images/Offshore_Summer_Shallow.png)
 
 The offshore summer has considerably higher thermocline compared to the thermocline in the winter.
 

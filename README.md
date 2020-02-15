@@ -1,8 +1,10 @@
 # CTD-project1
 
-Joshua Mundt;
-CTD project 1;
-1/31/2020
+Joshua Mundt
+
+CTD project 1
+
+02/14/2020
 
 Link:  https://github.com/joshuamundt/CTD-project1.git
 

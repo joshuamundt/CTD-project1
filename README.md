@@ -60,3 +60,4 @@ The images above show that in the summer the Oregon Offshore has the highest ssp
 ![](images/Offshore_Summer_Deep_1.png)
 ![](images/Offshore_Winter_Deep_1.png) 
 
+ 

@@ -43,7 +43,7 @@ It is quite difficult to compare the average ssp profiles of all profilers recor
 
 
 ![](images/Offshore_Winter_Deep_1.png)
-![](images/Offshore_Summer_Deep_1.png)
+![](images/Offshore_Summer_Deep_1.png)  
 
 
 

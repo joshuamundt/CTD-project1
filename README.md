@@ -53,3 +53,10 @@ It is quite difficult to compare the average ssp profiles of all profilers recor
 
 The images above show that in the summer the Oregon Offshore has the highest ssp gradient with respect to depth, followed by Oregon Slope and Orgeon Axial. Whereas in the winter, the average ssp decreased faster in Oregon Axial, followed by Oregon Slope and Oregon Offshore. 
 
+![](images/Axial_Summer_Deep_1.png)
+![](images/Axial_Winter_Deep_1.png)
+![](images/Slope_Summer_Deep_1.png)
+![](images/Slope_Winter_Deep_1.png)  
+![](images/Offshore_Summer_Deep_1.png)
+![](images/Offshore_Winter_Deep_1.png) 
+

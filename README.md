@@ -6,7 +6,11 @@ CTD project 1;
 
 Link:  https://github.com/joshuamundt/CTD-project1.git
 
-  For this project, I obtained the ocean data from OOI website. For each location, I procured data from deep and shallow profiler for both winter and summer on the same day. For the majority,  I selected Jan 6-7, 2019 for winter and July 6-7, 2019 for summer, but since all of the profilers don’t have data on similar day, I had to pick a different date or month or even year. There were six or nine dives in a span of 24 hours in the winter and summer when the CTD device traveled shallow depth. However, when the CTD device traveled deeper, as illustrated in the figures below, the number of dives went down to 2 dives in both winter and summer.
+  For this project, I obtained the ocean data from OOI website. For each location, I procured data from deep and shallow profiler for both winter and summer on the same day. For the majority,  I selected Jan 6-7, 2019 for winter and July 6-7, 2019 for summer, but since all of the profilers don’t have data on similar day, I had to pick a different date or month or even year. 
+
+There were six or nine dives in a span of 24 hours in the winter and summer when the CTD device traveled shallow depth. However, when the CTD device traveled deeper, as illustrated in the figures below, the number of dives went down to 2 dives in both winter and summer.
+![](images/Axial_Summer_Shallow_2.png)
+![](images/Axial_Summer_Deep_2.png)
 
 ![](images/Axial_Summer_Shallow_1.png)
 ![](images/Axial_Summer_Deep_1.png)

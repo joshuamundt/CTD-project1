@@ -25,19 +25,14 @@ b.) According to the data, the maximum speed of the sound was 1512m/s and 1507m/
 
 d.) In the summer the maximum ssp is near the surface due to excessive evaporation, and in the winter the maximum is between 70m and 100m below the surface as shown in the figures above. As the depth is beyond 250m the speed of sound profiles look similar for both winter and summer.
 
-
-
-![](images/Offshore_Summer_Shallow_1.png)
-![](images/Offshore_Winter_Deep_1.png)
-
-It is apparent that the speed of sound in the ocean is faster near the surface for both summer and winter.
+c.)It is apparent that the speed of sound in the ocean is faster near the surface for both summer and winter.
 According to given date, a huge discrepancy in speed of sound is not shown between day and night. After comparing the ssp profile in day and night of all profilers, most of the data has similar speed of sound for both day and night time, but a location, such as offshore has higher speed of sound during the day, especially in the morning.
 
 ![](images/Offshore_Winter_Deep_3.png)
 
 For example, the image above shows that the speed of sound is faster early in the morning and afternoon. The reason could be that, during the day time, the speed of the sound profile in all profilers increased because the temperature is higher at day time, which enables the sound wave to travel faster.
 
-The ssp profiles in the summer has slightly higher thermocline compared to winter profiles, and the thermocline in the summer is closer to the surface as it the images indicate below.
+e.)The ssp profiles in the summer has slightly higher thermocline compared to winter profiles, and the thermocline in the summer is closer to the surface as it the images indicate below.
 
 ![](images/Offshore_Winter_Shallow_1.png)
 ![](images/Offshore_Summer_Shallow_1.png)

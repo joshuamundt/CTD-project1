@@ -8,7 +8,7 @@ Link:  https://github.com/joshuamundt/CTD-project1.git
 
   For this project, I obtained the ocean data from OOI website. For each location, I procured data from deep and shallow profiler for both winter and summer on the same day. For the majority,  I selected Jan 6-7, 2019 for winter and July 6-7, 2019 for summer, but since all of the profilers don’t have data on similar day, I had to pick a different date or month or even year. 
 
-a.)There were six or nine dives in a span of 24 hours in the winter and summer when the CTD device traveled shallow depth. However, when the CTD device traveled deeper, as illustrated in the figures below, the number of dives went down to 2 dives in both winter and summer.
+a.)There were six or nine dives in a span of 24 hours in the winter and summer when the CTD device traveled shallow depth. However, when the CTD device traveled deeper, the number of dives went down to 2 dives in both winter and summer as illustrated in the figures below.
 
 ![](images/Axial_Summer_Shallow_2.png)
 ![](images/Axial_Summer_Deep_2.png)
@@ -20,8 +20,10 @@ b.) According to the data, the maximum speed of the sound was 1512m/s and 1507m/
 
 ![](images/Axial_Summer_Shallow_1.png)
 ![](images/Axial_Winter_Shallow_1.png)
+![](images/Axial_Summer_Deep_1.png)
+![](images/Axial_Winter_Deep_1.png)
 
-In the summer the maximum ssp is near the surface due to excessive evaporation, and in the winter the maximum is between 70m and 100m below the surface as shown in the figures above.
+d.) In the summer the maximum ssp is near the surface due to excessive evaporation, and in the winter the maximum is between 70m and 100m below the surface as shown in the figures above. As the depth is beyond 250m the speed of sound profiles look similar for both winter and summer.
 
 
 

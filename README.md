@@ -21,6 +21,8 @@ b.) According to the data, the maximum speed of the sound was 1512m/s and 1507m/
 ![](images/Axial_Summer_Shallow_1.png)
 ![](images/Axial_Winter_Shallow_1.png)
 
+In the summer the maximum ssp is near the surface due to excessive evaporation, and in the winter the maximum is between 70m and 100m below the surface as shown in the figures above.
+
 
 
 ![](images/Offshore_Summer_Shallow_1.png)

@@ -13,10 +13,15 @@ a.)There were six or nine dives in a span of 24 hours in the winter and summer w
 ![](images/Axial_Summer_Shallow_2.png)
 ![](images/Axial_Summer_Deep_2.png)
 
-![](images/Axial_Summer_Shallow_1.png)
-![](images/Axial_inter_Shallow_1.png)
+The data explicitly shows that the number of dives per day was considerably lower when the device travels deeper, regardless of seasons.
 
-The data explicitly shows that the number of dives per day was considerably lower when the device travels deeper, regardless of seasons. According to the data, the maximum speed of the sound was 1512m/s and 1507m/s in the summer and winter respectively. The maximum speed of sound profile was slightly higher in the summer because the temperature of the water increases and aids the sound wave vibration to transfer faster in the water molecules. The Images below depict the maximum speed of sound in relation to the depth of seawater.
+
+b.) According to the data, the maximum speed of the sound was 1512m/s and 1507m/s in the summer and winter respectively. The maximum speed of sound profile was slightly higher in the summer because the temperature of the water increases and aids the sound wave vibration to transfer faster in the water molecules. The Images below depict the maximum speed of sound in relation to the depth of seawater.
+
+![](images/Axial_Summer_Shallow_1.png)
+![](images/Axial_Winter_Shallow_1.png)
+
+
 
 ![](images/Offshore_Summer_Shallow_1.png)
 ![](images/Offshore_Winter_Deep_1.png)

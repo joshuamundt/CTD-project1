@@ -48,7 +48,7 @@ It is quite difficult to compare the average ssp profiles of all profilers recor
 ![](images/Axial_Winter_Shallow_1.png)
 ![](images/Slope_Summer_Shallow_1.png)
 ![](images/Slope_Winter_Shallow_1.png)  
-![](images/Offshore_Summer_shallow_1.png)
+![](images/Offshore_Summer_Shallow_1.png)
 ![](images/Offshore_Winter_Shallow_1.png)  
 
 

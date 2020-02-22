@@ -60,7 +60,7 @@ It is difficult do compare the deep profilers at different locations due to vari
 ![](images/Axial_Winter_Deep_1.png)
 ![](images/Slope_Summer_Deep_1.png)
 ![](images/Slope_WInter_Deep_1.png)  
-![](images/Offshore_Summer_Deep_1.png)
+![](images/Offshore_Summer_Deep_1.png) 
 ![](images/Offshore_Winter_Deep_1.png) 
 
  
